@@ -1,0 +1,8 @@
+# npm stuff
+node-modules
+
+# system stuff
+.DS_Store
+
+# copyrighted stuff
+books
